@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Windows\\AndroidStudioProjects\\android-CardEmulation-sample\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Windows\\AndroidStudioProjects\\android-CardEmulation-sample\\Application\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Windows\\AndroidStudioProjects\\android-CardEmulation-sample\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\card_background.png",
+        "source": "C:\\Users\\Windows\\AndroidStudioProjects\\android-CardEmulation-sample\\Application\\src\\main\\res\\drawable-xxhdpi\\card_background.png"
+    }
+]

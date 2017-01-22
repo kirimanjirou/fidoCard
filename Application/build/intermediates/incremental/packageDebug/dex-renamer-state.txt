@@ -1,0 +1,7 @@
+#Mon Jan 23 03:47:41 JST 2017
+base.0=C\:\\Users\\Windows\\AndroidStudioProjects\\android-CardEmulation-sample\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_5091b0c6803387e4aec69d6991d23599c23dc5fc
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Windows\\AndroidStudioProjects\\android-CardEmulation-sample\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_cb002185db76c759996796358e2906622e1b653e\\classes.dex
+base.1=C\:\\Users\\Windows\\AndroidStudioProjects\\android-CardEmulation-sample\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_cb002185db76c759996796358e2906622e1b653e
+file.0=C\:\\Users\\Windows\\AndroidStudioProjects\\android-CardEmulation-sample\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_5091b0c6803387e4aec69d6991d23599c23dc5fc\\classes.dex
